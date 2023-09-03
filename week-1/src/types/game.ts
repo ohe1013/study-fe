@@ -1,1 +1,1 @@
-export type sqaureValues = "O" | "X" | null;
+export type boxValues = "O" | "X" | null;
